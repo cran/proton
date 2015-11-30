@@ -1,0 +1,17 @@
+4893d7f8d3ab4b6590c1b48c6535c996 *DESCRIPTION
+3fa09a99659113d5364b8af8bef3724e *NAMESPACE
+00c5beade0cdff85fa3bff76bbb6043b *R/bash_history.R
+5737d14c1cc36547254cfd5cc4050363 *R/employees.R
+e9c8a43da59160eb98418b1f8accf3c3 *R/logs.R
+c40537f50c85f3deb9385ac455819c41 *R/proton.R
+09e6bade137e13d253eb13b72a2886ae *R/top1000passwords.R
+d7330976123c35840a281fc4a57d5b2b *R/zzz.R
+84edc0cc9f5ce0d2a2be6df69531049c *data/bash_history.rda
+ec097222c7b5f24d4138b7e93f62f533 *data/employees.rda
+bec42c474ff3f0a5a86cfb9c8031a65e *data/logs.rda
+f8fc50cd9dbb793bc6fe7ddd7849afac *data/top1000passwords.rda
+5b1ead096cf0fe772aed4e2cd2ec4faf *man/bash_history.Rd
+df404f3a56bdb2b2403993f76025b4ef *man/employees.Rd
+5485c6eda54d0902a2a1abe07a4e47a8 *man/logs.Rd
+7888a79e8d5257ff6229b2292c8b9d62 *man/proton.Rd
+67275af9a48c2425bed7ce084dff5c83 *man/top1000passwords.Rd
